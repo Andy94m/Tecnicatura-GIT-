@@ -320,7 +320,7 @@ public class HolaMundo {
             System.out.println("Papá puede asistir al juego de su hijo");
         } else {
             System.out.println("Papá NO puede asistir al juego de su hijo");
-        }  */
+        }  
  
         //Operador Ternario
         var resultadoT = (7 > 4) ? "Verdadero" : "Falso"; //se usa con expreciones sensillas
@@ -328,7 +328,7 @@ public class HolaMundo {
 
         var numeroT = 7;
         resultadoT = (numeroT % 2 == 0) ? "Es par " : "Es impar";
-        System.out.println("resultadoT = " + resultadoT);
+        System.out.println("resultadoT = " + resultadoT); */
         
         
         
