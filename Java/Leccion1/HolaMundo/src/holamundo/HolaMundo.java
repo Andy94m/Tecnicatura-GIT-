@@ -312,7 +312,7 @@ public class HolaMundo {
             System.out.println("Esta DENTRO del rango establecido");
         } else {
             System.out.println("Esta FUERA del rango establecido");
-        }
+        } */
 
         var vacaciones = false;
         var diaLibre = false;
@@ -328,7 +328,7 @@ public class HolaMundo {
 
         var numeroT = 7;
         resultadoT = (numeroT % 2 == 0) ? "Es par " : "Es impar";
-        System.out.println("resultadoT = " + resultadoT); */
+        System.out.println("resultadoT = " + resultadoT); 
         
         
         
