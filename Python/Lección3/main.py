@@ -34,7 +34,7 @@ for letra in 'Alemania':
         print((f'letra encontrada: {letra}'))
         break
 else:
-    print('Fin del ciclo for') '''
+    print('Fin del ciclo for')
 
 
 #Palabra reservada continue
@@ -45,4 +45,5 @@ for i in range(6):
 for i in range (6):
     if i % 2 != 0:
         continue
-    print(f'Valor : {i}')
+    print(f'Valor : {i}') '''
+
