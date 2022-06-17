@@ -18,6 +18,5 @@ public class Ejercicio5{
         suma = nota1 + nota2 + nota3;
         
         System.out.println("\n la suma es: " + suma);
-        
     }
 }
