@@ -17,7 +17,7 @@ public class ClicloWhile {
         }while(contador < 7);
         
         
-        
+        //inicio:
         for(var contando = 0; contando < 7; contando ++ ){
             if(contando % 2 == 0){
                 System.out.println("contando = " + contando);
@@ -26,18 +26,16 @@ public class ClicloWhile {
         }
         
         
-        
+        inicio:
         for(var contando = 0; contando < 7; contando ++ ){
             if(contando % 2 != 0){
-                continue;
+                continue inicio; //continua con la siguiente iteración
             }
             System.out.println("contando = " + contando);
         }
-        
-        
+
         //Etiquetas Labels, go to
-        
-        
+ 
     }
     
 }
