@@ -2,7 +2,7 @@
 
 
 */
-package ejerciciociclos01;
+package Ciclos01;
 
 public class Ejercicio02 {
     

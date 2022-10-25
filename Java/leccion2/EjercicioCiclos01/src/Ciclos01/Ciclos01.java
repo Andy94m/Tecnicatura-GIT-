@@ -1,11 +1,11 @@
 /*ejercico 1: leer un numero y mostrar su cuadrado
 , repetir el proceso hasta que se introduzca un numero negrativo */
 
-package ejerciciociclos01;
+package Ciclos01;
 
 import java.util.Scanner;
 
-public class EjercicioCiclos01 {
+public class Ciclos01 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
