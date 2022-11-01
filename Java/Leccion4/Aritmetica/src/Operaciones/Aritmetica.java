@@ -9,6 +9,18 @@ public class Aritmetica {
     int a;
     int b;
     
+    //El constructor es un metodo especial
+    public Aritmetica(){ //constructor vacio
+        System.out.println("Se esta ejecutando este constructor nro uno");
+    }
+    
+    //Viendo sobrecarga de constructores
+    public Aritmetica(int a, int b){
+        this.a = a;
+        this.b = b;
+        System.out.println("Se esta ejecutando este constructor numero dos");
+    }
+    
     //Metodo
     public void sumarNumeros(){
         int resultado = a + b;
